@@ -1,0 +1,16 @@
+Logistic
+  true normal: predicted normal 46956, predicted fraud 430
+  true fraud:  predicted normal 10, predicted fraud 72
+
+Quadratic+LASSO
+  true normal: predicted normal 47379, predicted fraud 7
+  true fraud:  predicted normal 17, predicted fraud 65
+
+Random Forest
+  true normal: predicted normal 47378, predicted fraud 8
+  true fraud:  predicted normal 11, predicted fraud 71
+
+Neural Net
+  true normal: predicted normal 46832, predicted fraud 554
+  true fraud:  predicted normal 10, predicted fraud 72
+
