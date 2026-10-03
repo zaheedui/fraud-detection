@@ -54,4 +54,4 @@ Check the train/validation/test split and the sampling methods:
 Random Forest performed best. The best sampling method and p differ for every model.
 
 ## Team
-Syed Syed Zaheed and Laxmikanth .
+Syed Zaheed and Laxmikanth .
